@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=SolarWolf
+Icon=org.pygame.solarwolf
+Exec=/app/bin/solarwolf
+Categories=Game;ArcadeGame
