@@ -1,0 +1,10 @@
+python = "3.6"
+name = "Solarwolf"
+appid = "org.pygame.solarwolf"
+files = [
+  "solarwolf"
+]
+entry-point = "solarwolf.cli:main"
+
+[icons]
+64 = "dist/solarwolf.png"
